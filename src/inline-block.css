@@ -1,0 +1,16 @@
+.parent {
+  text-align: center;
+}
+
+.child1 {
+  width: 400px;
+  height: 400px;
+  /* background-color: rgb(24, 82, 82); */
+  display: inline-block;
+}
+.child2 {
+  width: 800px;
+  height: 400px;
+  /* background-color: rgb(27, 102, 18); */
+  display: inline-block;
+}
